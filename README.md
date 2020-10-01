@@ -36,14 +36,14 @@ details about fonts and colours.
 
 * Go to https://github.com/cucumber/website/tree/master/apps/dynamic/views/_posts.  
 * Open a previous blog post for reference and for the format header (new tab)  
-* On the toolbar, click the '+' button.  
-* Name new file with hyphens and ending with .md  
+* On the toolbar, click '+' button.  
+* Name new file with hyphens and ending with ".md" 
 * C&P previous post format header into new file  
 * Adjust format according to new post  
 * C&P blog post markdown  
-* Change to preview to see live changes  
+* Change to preview to see live changes.  
 * Once ready, update description and commit.  
-* Watch build status to check if it has been post
+* Watch build status to check if it has been post.
 
 ### Production
 
